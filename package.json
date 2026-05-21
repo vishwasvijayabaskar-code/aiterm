@@ -1,0 +1,16 @@
+{
+  "name": "aiterm",
+  "version": "1.0.0",
+  "description": "AI-powered terminal assistant. Run commands, auto-explain errors, suggest fixes.",
+  "main": "src/index.js",
+  "bin": {
+    "aiterm": "./src/index.js"
+  },
+  "keywords": ["ai", "terminal", "cli", "error", "explain", "openai", "anthropic", "shell", "debug"],
+  "author": "vishwasvijayabaskar-code",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
