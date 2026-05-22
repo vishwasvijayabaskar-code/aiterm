@@ -97,6 +97,14 @@ aiterm what "find . -name '*.log' -mtime +30 -delete"
 - **Zero dependencies** — just Node.js 18+
 - **Multi-provider** — OpenAI or Anthropic, auto-detected
 
+## Also By Me
+
+- [oneshot](https://github.com/vishwasvijayabaskar-code/oneshot) — One command, any LLM, instant answers from terminal
+- [gitgenius](https://github.com/vishwasvijayabaskar-code/gitgenius) — AI-powered git commits, PR descriptions, changelogs
+- [promptbattle](https://github.com/vishwasvijayabaskar-code/promptbattle) — Compare LLM responses side-by-side
+- [awesome-ai-agents](https://github.com/vishwasvijayabaskar-code/awesome-ai-agents) — Curated list of AI agent frameworks
+- [ai-system-design-primer](https://github.com/vishwasvijayabaskar-code/ai-system-design-primer) — System design for AI systems
+
 ## License
 
 MIT
