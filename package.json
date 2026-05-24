@@ -1,5 +1,5 @@
 {
-  "name": "aiterm",
+  "name": "aiterm-ai",
   "version": "1.0.0",
   "description": "AI-powered terminal assistant. Run commands, auto-explain errors, suggest fixes.",
   "main": "src/index.js",
